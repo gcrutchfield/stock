@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Server Error (Sorry)</title>
+    <style type="text/css">
+        body {
+            background-color: #283c43;
+            color: #d1d2d4;
+            text-align: center;
+            font-family: helvetica, arial, sans-serif;
+            height:100%;
+            margin:0px 0px; padding:0px;
+            text-align:center; /* Hack for IE5/Win */
+            font-size: 100%;
+        }
+        .wrapper {
+            width: 800px;
+            margin: 150px auto;
+        }
+        h1 {
+            font-size: 100px;
+            color: #e15829;
+            line-height: 0.5;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size:24px;
+            color: #e15829;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        a {
+            color: #00adef;
+        }
+    </style>
+</head>
+
+<body>
+<div class="wrapper">
+    <h1>500</h1>
+    <h2>Server Error</h2>
+    <p>Sorry, your request has failed completely. The one thing you can try immediately is to reload this page.</p>
+    <p>Perhaps this was simply a temporary glitch.</p>
+    <p> <b>This will be fixed</b></p>
+    <p>We work very hard to ensure Quandl is 100% per cent functional at all times.  Please know that the problem you encountered here was logged and will be fixed promptly.
+        We apologize for this inconvenience. </p>
+    <p>- <b>Jason Byck, CTO, Quandl</b></p>
+    <p>For further updates on the status of the website please visit our <a href='https://twitter.com/quandl'>twitter</a> feed.</p>
+</div>
+</body>
+</html>

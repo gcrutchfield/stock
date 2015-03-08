@@ -1,0 +1,3 @@
+args[0] = AAL
+handSuccess company = AAL
+company AAL skipped, does not exist in quandl
